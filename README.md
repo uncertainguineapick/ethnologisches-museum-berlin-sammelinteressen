@@ -1,4 +1,4 @@
-# Kolonialen Sammlungen auf der Spur. Eine Normdaten- und GIS-basierte Exploration der Sammlungsgeschichte des Ethnologischen Museums Berlin
+# Kolonialen Sammlungen auf der Spur. Eine Normdaten- und GIS-basierte Exploration der Sammlungsinteressen des Ethnologischen Museums Berlin
 Datenbasis für die GIS-basierte Analyse der Sammelinteressen des EM Berlin
 
 Das Ethnologische Museum spielte durch einen Bundesratsbeschluss ab 1889 als zentrale Sammelstelle für Objekte aus den deutschen Kolonien eine wichtige Rolle im Deutschen Reich. Die Studie _Kolonialen Sammlungen auf der Spur. Eine Normdaten- und GIS-basierte Exploration der Sammlungsgeschichte des Ethnologischen Museums Berlin_ untersucht die räumliche und zeitliche Entwicklung der Sammelinteressen des Museums im Zeitraum von ca. 1870 bis 1950. 
